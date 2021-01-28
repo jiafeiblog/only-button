@@ -1,2 +1,2 @@
-# psychic-octo-disco
+# only-button
 the repository only button
